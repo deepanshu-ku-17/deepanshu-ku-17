@@ -19,7 +19,6 @@
 🌱 Currently learning:
 
 * Advanced Backend Development
-* DevOps
 * API Integration
 * Scalable MERN Applications
 
@@ -35,22 +34,12 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,java,python,powerbi,canva,figma" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-
-### 🎵 Spotify Clone
-
-Modern Spotify inspired music streaming UI.
-
-🔹 Responsive Design
-🔹 Interactive Music Player UI
-🔹 React Based Frontend
-
----
 
 ### 🌐 BlockAid - NGO Funding Platform
 
@@ -61,17 +50,6 @@ Blockchain based NGO transparency and donation platform.
 🔹 Transparent Transactions
 🔹 Modern Responsive UI
 
----
-
-### 🔐 Random Password Generator
-
-Python based password generator with secure random password generation.
-
-🔹 Custom Password Length
-🔹 Secure Password Creation
-🔹 Beginner Friendly Utility Project
-
----
 
 ## 📊 GitHub Stats
 
