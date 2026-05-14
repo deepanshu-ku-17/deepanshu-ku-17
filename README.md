@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-ku-17&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -100,9 +100,9 @@ Python based password generator with secure random password generation.
 
 ---
 
-## ⚡ Fun Fact
+## 🎯 Career Goal
 
-💡 I enjoy building real-world projects and continuously improving my development skills.
+Building scalable full stack applications and growing as a professional MERN Stack Developer.
 
 ---
 
