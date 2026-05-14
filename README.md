@@ -54,13 +54,14 @@ Blockchain based NGO transparency and donation platform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu-ku-17&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-ku-17&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshu-ku-17&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=deepanshu-ku-17&theme=tokyonight&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-ku-17&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-ku-17&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
+
 
 ---
 
