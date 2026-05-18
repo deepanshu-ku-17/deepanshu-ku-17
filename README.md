@@ -68,7 +68,7 @@ Blockchain based NGO transparency and donation platform.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:deepanshuroy584@gmail.com">
+<a href="mailto:work.deepanshukumar@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
